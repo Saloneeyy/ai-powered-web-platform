@@ -1,3 +1,26 @@
+# Python
 .venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.swp
+*.sqlite3
+*.log
+
+# Node / Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor / System files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw? 
